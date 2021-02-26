@@ -1,0 +1,25 @@
+h1 {
+    color: chartreuse;
+}
+
+* {
+    border: solid;
+}
+.header {
+background-color: black;
+display: flex;
+justify-content: space-between;
+}
+.grid {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.footer {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    
+}
